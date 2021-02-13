@@ -15,6 +15,8 @@ rotation.
 Task 2:
 Make the list items clickable and open a new fragment that displays the color of the
 clicked item.
+
+
 Bonus:
 Extract the number/color logic from Task 1 into a separate class and write a Unit Test
 for this logic.
