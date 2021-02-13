@@ -10,6 +10,8 @@ element BLUE.
 element YELLOW.
 After a device-rotation the app should show the same list-element as before the
 rotation.
+
+
 Task 2:
 Make the list items clickable and open a new fragment that displays the color of the
 clicked item.
