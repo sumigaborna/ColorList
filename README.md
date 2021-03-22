@@ -1,3 +1,5 @@
+This is an Android application that will go through two tasks:
+
 Task 1:
 Create an Android application which includes a fragment and an activity. The fragment
 should display a list with 100.000 colored list-items.
@@ -20,7 +22,3 @@ clicked item.
 Bonus:
 Extract the number/color logic from Task 1 into a separate class and write a Unit Test
 for this logic.
-
-Please provide the app as a Zip-File of the project including everything needed to
-compile and run the app.
-Happy coding!
